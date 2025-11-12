@@ -11,7 +11,7 @@ public class H1_main {
 		switch(zone) {
 			case 1:	
 				break;
-			case 2: 	price+=0.35;
+			case 2:	price+=0.35;
 				break;
 			case 3:	price+=0.85;
 				break;
