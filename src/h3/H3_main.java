@@ -5,7 +5,7 @@ public class H3_main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		float celsiusFloat = 14.2f;
-		float fahrenheitFloat = 14.2f;
+		float fahrenheitFloat = 14.2f; 
 		double celsiusDouble = 14.2;
 		double fahrenheitDouble = 14.2;
 		
